@@ -2,7 +2,7 @@
 title: "EasyDining - Java Web Development"
 layout: post
 date: 2019-04-22 19:10
-tag: Java, SpringBoot, MySQL, RESTful, Logback, WebSocket 
+tag: [Java, SpringBoot, MySQL, RESTful, Logback, WebSocket] 
 image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563394461/spring-boot.png
 headerImage: true
 projects: true

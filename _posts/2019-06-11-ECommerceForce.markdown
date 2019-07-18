@@ -2,7 +2,7 @@
 title: "EcommerceForce - Flask Based API Design"
 layout: post
 date: 2019-05-11 15:34
-tag: Flask, Python3, Backend, RESTful, OAuth2, Stripe, Mailgun 
+tag: [Flask, Python3, Backend, RESTful, OAuth2, Stripe, Mailgun] 
 image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563432219/1200px-Flask_logo.svg.png
 headerImage: true
 projects: true
