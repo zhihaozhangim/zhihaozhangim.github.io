@@ -21,7 +21,7 @@ A real-time workout application for users to take various kinds of exercises and
 
 ---
 
-What is EasyDinning all about?
+What is IgniteFitness all about?
 
 - Built a responsive user interface that reacts to device screen sizes using Angular and Angular Material
 - Applied Firebase as real-time database for the storage and sync of exercise information and for user authentication, leveraging AngularFire to interact with Firebase and monitor authentication state
