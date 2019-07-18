@@ -2,7 +2,15 @@
 title: "IgniteFitness - Angular Based Web Application"
 layout: post
 date: 2018-08-19 09:55
-tag: Angular|Angular Material|JavaScript|AngularFire|Firebase|Firebase Hosting 
+
+tag: 
+- Angular
+- Angular Material
+- JavaScript
+- AngularFire
+- Firebase
+-Firebase Hosting 
+
 image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563434787/756150_c033_2.jpg
 headerImage: true
 projects: true
