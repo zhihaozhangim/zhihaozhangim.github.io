@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-17T14:04:25-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zhihao Zhang</title><subtitle>A blog about my projects and my knowledge graph.</subtitle><entry><title type="html">EasyDining - Java Web Development</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="EasyDining - Java Web Development" /><published>2019-04-22T19:10:00-07:00</published><updated>2019-04-22T19:10:00-07:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-17T23:49:02-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zhihao Zhang</title><subtitle>A blog about my projects and my knowledge graph.</subtitle><entry><title type="html">EcommerceForce - Flask Based API Design</title><link href="http://localhost:4000/indigo-jekyll-theme-copy/" rel="alternate" type="text/html" title="EcommerceForce - Flask Based API Design" /><published>2019-05-11T15:34:00-07:00</published><updated>2019-05-11T15:34:00-07:00</updated><id>http://localhost:4000/indigo-jekyll-theme%20copy</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme-copy/">&lt;p&gt;Fully featured web service for online stores, providing convenient and extensible API with detailed documentation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/zhihaozhangim/EcommerceForce&quot;&gt;Source code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is EcommerceForce all about?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Created RESTful API with Flask in a Test-first principle, with all the API tested and documented in Postman to ensure easy usability and 100% functionality&lt;/li&gt;
+  &lt;li&gt;Stored data in a local SQLite database, using SQLAlchemy as ORM for efficient database query and manipulation&lt;/li&gt;
+  &lt;li&gt;Implemented E-mail confirmation with Mailgun, and JWT authentication with Flask-JWT-Extended for security&lt;/li&gt;
+  &lt;li&gt;Applied Stripe API for payment acceptance, OAuth 2.0 for third party login, Flask-Uploads for image uploads&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Project Demo&lt;/p&gt;
+
+&lt;p&gt;API has been published, you can try this service using Postman.
+&lt;a href=&quot;https://documenter.getpostman.com/view/4791858/SVSLpnra?version=latest&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/zhihaozhangim/EcommerceForce&quot;&gt;Check it out&lt;/a&gt; here.
+If you need some help, please &lt;a href=&quot;https://github.com/zhihaozhangim/EcommerceForce/issues&quot;&gt;file an issue&lt;/a&gt;.&lt;/p&gt;</content><author><name>zhihaozhang</name></author><category term="project" /><category term="Flask, Python3, Backend, RESTful, OAuth2, Stripe, Mailgun" /><summary type="html">Fully featured web service for online stores, providing convenient and extensible API with detailed documentation</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://res.cloudinary.com/do3j5ljcx/image/upload/v1563432219/1200px-Flask_logo.svg.png" /></entry><entry><title type="html">EasyDining - Java Web Development</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="EasyDining - Java Web Development" /><published>2019-04-22T19:10:00-07:00</published><updated>2019-04-22T19:10:00-07:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/zhihaozhangim/EasyDinning&quot;&gt;Source code&lt;/a&gt;.&lt;/p&gt;
 
