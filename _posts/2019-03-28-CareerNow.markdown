@@ -1,80 +1,69 @@
 ---
-title: "EasyDining - Java Web Development"
+title: "CareerNow - MERN Stack Web Application"
 layout: post
-date: 2019-04-22 19:10
-tag: Java, SpringBoot, MySQL, RESTful, Logback, WebSocket 
-image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563394461/spring-boot.png
+date: 2019-03-28 15:34
+tag: [React, JavaScript, MongoDB, Node.js, Express, Server Side Rendering]
+image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563480150/react.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory"
+description: "Single page full-stack web application designed for jobseekers and recruiters to interact with each other"
 category: project
 author: zhihaozhang
 externalLink: false
 ---
 
 
+Single page full-stack web application designed for jobseekers and recruiters to interact with each other.
 
-Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory.
-
-[Source code](https://github.com/zhihaozhangim/EasyDinning). 
+[Source code](https://github.com/zhihaozhangim/CareerNow). 
 
 ---
 
-What is EasyDinning all about?
+What is CareerNow all about?
 
-- Created RESTful API with Spring Boot, applying SLF4J and Logback to record real-time system logs
-- Utilized MySQL database to store products and orders information, using Spring Data JPA for efficient database looking-up and manipulation, supplemented with Redis as Cache layer to boost server performance
-- Built a user-friendly frontend with Bootstrap and FreeMarker, leveraging WebSocket to push instant notifications
-- Implemented distributed lock with Redis, enabling server to handle 300 QPS tested by Apache ab
+- Built the user interface with React and Ant Design UI framework, displaying message list along with unread messages number, and recruiters or jobseekers list based on the role of current users
+- Applied Redux for state management, React Router for route configuration and navigation, MD5 for password encryption, Socket.io for message sending and broadcasting, and axios for sending AJAX request to the backend
+- Established RESTful backend service with Express, using MongoDB for data modeling and persistence
+- Implemented server side rendering for 3 times faster initial page rendering tested by Chrome DevTools
 
 ---
 
 Project Demo
 
-Order List
-![Order List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396644/List.png)
+Login
+![Login](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481684/Screen_Shot_2019-07-18_at_13.17.33.png)
 
 
-Product List
-![Product List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396645/Product_List.png)
+Register
+![Register](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481776/Screen_Shot_2019-07-18_at_13.12.23.png)
 
 
-Order Detail1
-![Order Detail1](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/Order_Detail1.png)
+Complete Information
+![Complete Information](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481685/Screen_Shot_2019-07-18_at_13.20.17.png)
 
 
-Order Detail2
-![Order Detail2](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396644/Order_Detail2.png)
+User List
+![User List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481684/Screen_Shot_2019-07-18_at_13.20.53.png)
 
 
-Category List
-![Category List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Category_List.png)
+User Profile
+![Category List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481685/Screen_Shot_2019-07-18_at_13.21.05.png)
 
 
-Create/Update Product
-![Create/Update Product](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/Create_update_Product.png)
+Message List
+![Create/Update Product](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481684/Screen_Shot_2019-07-18_at_13.26.02.png)
 
 
-New Order Notification
-![New Order Notification](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/New_Order_Notifications.png)
+Chat
+![Chat](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481685/Screen_Shot_2019-07-18_at_13.26.16.png)
 
 
-Special credits to my friend [Shawn Wang](https://www.linkedin.com/in/jinghao-wang-shaw/) for creating the awesome client side UI
-
-Client List
-![Client List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_List.png)
-
-
-Client Side Comments
-![Client Side Comments](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_Comments.png)
-
-
-Client Side Make Order
-![Client Side Make Order](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_Make_Order.png)
+Logout
+![Logout](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563481685/Screen_Shot_2019-07-18_at_13.26.25.png)
 
 
 ---
 
-[Check it out](https://github.com/zhihaozhangim/EasyDinning) here.
-If you need some help, please [file an issue](https://github.com/zhihaozhangim/EasyDinning/issues).
+[Check it out](https://github.com/zhihaozhangim/CareerNow) here.
+If you need some help, please [file an issue](https://github.com/zhihaozhangim/CareerNow/issues).
