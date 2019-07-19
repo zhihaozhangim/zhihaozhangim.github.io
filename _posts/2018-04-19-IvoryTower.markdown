@@ -1,5 +1,5 @@
 ---
-title: "IvoryTower - Angular Based Web Application"
+title: "IvoryTower - Express Based Web Application"
 layout: post
 date: 2018-4-19 16:25
 tag: [Express, Node.js, Javascript, MongoDB, Bootstrap, Google Maps API, Heroku]
