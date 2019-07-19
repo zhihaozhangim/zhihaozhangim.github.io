@@ -31,7 +31,7 @@ What is IgniteFitness all about?
 
 Project Demo
 
-This web application has been deployed to Firebase Hosting
+This web application has been deployed to Firebase Hosting.
 [Link](https://fitness-tracker-47d8a.web.app/)
 
 
