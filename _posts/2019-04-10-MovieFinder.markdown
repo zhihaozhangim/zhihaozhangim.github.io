@@ -1,13 +1,13 @@
 ---
-title: "EasyDining - Java Web Development"
+title: "MovieFinder - C/C++ Based Search Engine"
 layout: post
-date: 2019-04-22 19:10
-tag: Java, SpringBoot, MySQL, RESTful, Logback, WebSocket 
-image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563394461/spring-boot.png
+date: 2019-04-10 23:30
+tag: [C/C++, Socket Programming, Multithreading, Web Server, Search Engine ]
+image: https://res.cloudinary.com/do3j5ljcx/image/upload/v1563521313/C.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory"
+description: "Movie search engine where users can get lists of movies that contain the words they query in the title"
 category: project
 author: zhihaozhang
 externalLink: false
@@ -15,66 +15,17 @@ externalLink: false
 
 
 
-Full-stack web application in MVC architecture for food delivery website to handle orders and manage inventory.
+Movie search engine where users can get lists of movies that contain the words they query in the title.
 
-[Source code](https://github.com/zhihaozhangim/EasyDinning). 
-
----
-
-What is EasyDinning all about?
-
-- Created RESTful API with Spring Boot, applying SLF4J and Logback to record real-time system logs
-- Utilized MySQL database to store products and orders information, using Spring Data JPA for efficient database looking-up and manipulation, supplemented with Redis as Cache layer to boost server performance
-- Built a user-friendly frontend with Bootstrap and FreeMarker, leveraging WebSocket to push instant notifications
-- Implemented distributed lock with Redis, enabling server to handle 300 QPS tested by Apache ab
+It is a course project, if you want to see the source code, please contact me. 
+[Email](zhang.zhihao@huksy.neu.edu). 
 
 ---
 
-Project Demo
+What is MovieFinder all about?
 
-Order List
-![Order List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396644/List.png)
-
-
-Product List
-![Product List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396645/Product_List.png)
-
-
-Order Detail1
-![Order Detail1](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/Order_Detail1.png)
-
-
-Order Detail2
-![Order Detail2](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396644/Order_Detail2.png)
-
-
-Category List
-![Category List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Category_List.png)
-
-
-Create/Update Product
-![Create/Update Product](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/Create_update_Product.png)
-
-
-New Order Notification
-![New Order Notification](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396643/New_Order_Notifications.png)
-
-
-Special credits to my friend [Shawn Wang](https://www.linkedin.com/in/jinghao-wang-shaw/) for creating the awesome client side UI
-
-Client List
-![Client List](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_List.png)
-
-
-Client Side Comments
-![Client Side Comments](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_Comments.png)
-
-
-Client Side Make Order
-![Client Side Make Order](https://res.cloudinary.com/do3j5ljcx/image/upload/v1563396642/Client_Side_Make_Order.png)
-
+- Built a file crawler and a indexer with linked list, hash table and inverted index for efficient query processing
+- Implemented multi-threading file parsing with Pthreads to improve performance, using mutex to avoid data race
+- Developed a web client and a web server using socket programming, with the multiprocessing server handling connections made by multiple clients in parallel
 
 ---
-
-[Check it out](https://github.com/zhihaozhangim/EasyDinning) here.
-If you need some help, please [file an issue](https://github.com/zhihaozhangim/EasyDinning/issues).
